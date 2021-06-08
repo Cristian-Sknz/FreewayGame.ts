@@ -1,0 +1,5 @@
+dist/
+.cache/
+.git/
+.parcel-cache/
+node_modules/
